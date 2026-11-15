@@ -56,3 +56,14 @@ Protocol Overlord: A Python Edu-Game is a story-driven desktop RPG built with Py
    ```bash
    git clone [https://github.com/VIGNESH011007/Protocol-Overlord.git](https://github.com/VIGNESH011007/Protocol-Overlord.git)
    cd Protocol-Overlord
+
+   Run the application:
+No external packages or pip install steps are required—everything runs using Python's built-in standard libraries:
+
+Bash
+python ninjago_stark_quest.py
+(Note: To reset campaign progress for a fresh playthrough, delete the generated stark_ninjago_save.db file and relaunch the script.)
+
+
+### Quick Tip for Adding It on GitHub
+Once you click **Create repository**, click on `README.md` in your new repo, click the **pencil (Edit)** icon in the top-right corner of the file preview, paste this text in, and click **Commit changes**.
